@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to dsatm
+=======
+hello world
+>>>>>>> b20eb78523bcdbd5e265035514c88a77ceb20e0b
