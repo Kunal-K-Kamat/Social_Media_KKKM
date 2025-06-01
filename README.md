@@ -21,7 +21,9 @@ This separation ensures modularity and easier maintenance, while responsive desi
 
 ### 1. Backend:
 •	Language: Python 3.9+
+
 •	Framework: Django 
+
 •	Database: SQLite for development, PostgreSQL for production
 
 ### 2. Frontend:
