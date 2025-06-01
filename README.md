@@ -5,6 +5,7 @@ Additionally, it includes analytical features that offer insights into user acti
 Built using a Python-based web framework like Django or Flask, the backend logic is cleanly separated from the frontend, which is constructed using HTML, CSS, JavaScript, and Bootstrap. 
 This separation ensures modularity and easier maintenance, while responsive design techniques ensure the application works seamlessly across devices.
 
+
 ## Core Objectives (Social Media Focus):
 1.	Enable user registration and profile management with role-based access (students vs alumni).
 
@@ -15,3 +16,22 @@ This separation ensures modularity and easier maintenance, while responsive desi
 4.	Implement user engagement features such as likes, comments, and notifications to drive interaction and build community culture.
 
 5.	Implement a responsive frontend using HTML/CSS templates.
+
+## Software Requirements
+
+### 1. Backend:
+•	Language: Python 3.9+
+•	Framework: Django 
+•	Database: SQLite for development, PostgreSQL for production
+
+### 2. Frontend:
+•	Languages: HTML5, CSS3, JavaScript 
+•	Frameworks/Libraries: Bootstrap 5 for real-time interaction
+
+### 3. Additional Tools:
+•	Git & GitHub (version control)
+•	VS Code (development environment)
+
+
+
+
