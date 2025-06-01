@@ -26,12 +26,16 @@ This separation ensures modularity and easier maintenance, while responsive desi
 
 •	Database: SQLite for development, PostgreSQL for production
 
+
 ### 2. Frontend:
 •	Languages: HTML5, CSS3, JavaScript 
+
 •	Frameworks/Libraries: Bootstrap 5 for real-time interaction
+
 
 ### 3. Additional Tools:
 •	Git & GitHub (version control)
+
 •	VS Code (development environment)
 
 
